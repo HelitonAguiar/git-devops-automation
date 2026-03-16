@@ -10,3 +10,9 @@ Bem-vindo ao repositório! Este é uma projeto de exemplo para demontrar o uso b
 
 ### 📁 Estrutura do projeto
 
+### Adicionando conteúdo remotamente
+
+------------------------------------
+
+## Como trabalhar com o Git
+
